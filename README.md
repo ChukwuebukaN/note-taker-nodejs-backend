@@ -1,7 +1,7 @@
 <h1 align='center'>Note Taker - Backend (Node.js, Express, MongoDB.)</h1>
 <br/>
 <p align="center">
-  <img width="400" height="400" src="https://user-images.githubusercontent.com/64613243/207711811-543bc78d-a965-4197-98ee-a1f2376b44fa.png">
+  <img width="200" height="200" src="https://github.com/user-attachments/assets/36a9a407-cf26-4f34-9d43-7981d8761a1f">
 </p>
 <br/>
 <h1>Getting started</h1>
