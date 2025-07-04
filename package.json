@@ -1,5 +1,5 @@
 {
-  "name": "the-frenzy-node-backend",
+  "name": "note-taker-backend",
   "version": "1.0.0",
   "description": "",
   "main": "dist/server.js",
